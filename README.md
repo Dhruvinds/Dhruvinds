@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinds&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinds" /> </p>
 
 - 📫 How to reach me **dhruvin.sorathiya18@gmail.com**
@@ -21,5 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvinds&show_icons=true&locale=en" alt="dhruvinds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinds&" alt="dhruvinds" /></p>
+
 
 
